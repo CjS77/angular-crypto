@@ -1,0 +1,25 @@
+{
+  "name": "angular-crypto",
+  "description": "Angular library module exposing cryptoJS functions",
+  "main": "index.js",
+  "authors": [
+    "Cayle Sharrock"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "cryptoJS"
+  ],
+  "homepage": "https://github.com/CjS77/angular-crypto",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-mocks": "^1.5.6"
+  }
+}

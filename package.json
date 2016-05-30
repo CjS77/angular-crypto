@@ -1,0 +1,27 @@
+{
+  "name": "angular-crypto",
+  "version": "1.0.0",
+  "description": "Angular library module exposing cryptoJS functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CjS77/angular-crypto.git"
+  },
+  "keywords": [
+    "angular",
+    "cryptoJS"
+  ],
+  "author": "Cayle Sharrock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CjS77/angular-crypto/issues"
+  },
+  "homepage": "https://github.com/CjS77/angular-crypto#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1"
+  }
+}
